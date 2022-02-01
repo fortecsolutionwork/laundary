@@ -1,9 +1,9 @@
 {
   "name": "my-app",
-  "homepage": "http://fortecsolutionwork.github.io/laundry2",
+  "homepage": "http://fortecsolutionwork.github.io/laundary",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://acuityscheduling.com/api/v1/appointments",
+  "proxy": "https://acuityscheduling.com/api/v1/appointmentsnp",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
