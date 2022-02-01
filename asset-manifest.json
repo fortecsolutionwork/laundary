@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/laundry2/static/css/main.b5945213.chunk.css",
+    "main.js": "/laundry2/static/js/main.1805cff0.chunk.js",
+    "main.js.map": "/laundry2/static/js/main.1805cff0.chunk.js.map",
+    "runtime-main.js": "/laundry2/static/js/runtime-main.2758c0dc.js",
+    "runtime-main.js.map": "/laundry2/static/js/runtime-main.2758c0dc.js.map",
+    "static/css/2.b3e935b7.chunk.css": "/laundry2/static/css/2.b3e935b7.chunk.css",
+    "static/js/2.e5ca7312.chunk.js": "/laundry2/static/js/2.e5ca7312.chunk.js",
+    "static/js/2.e5ca7312.chunk.js.map": "/laundry2/static/js/2.e5ca7312.chunk.js.map",
+    "static/js/3.83b228ce.chunk.js": "/laundry2/static/js/3.83b228ce.chunk.js",
+    "static/js/3.83b228ce.chunk.js.map": "/laundry2/static/js/3.83b228ce.chunk.js.map",
+    "index.html": "/laundry2/index.html",
+    "static/css/2.b3e935b7.chunk.css.map": "/laundry2/static/css/2.b3e935b7.chunk.css.map",
+    "static/css/main.b5945213.chunk.css.map": "/laundry2/static/css/main.b5945213.chunk.css.map",
+    "static/js/2.e5ca7312.chunk.js.LICENSE.txt": "/laundry2/static/js/2.e5ca7312.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/laundry2/static/media/banner-img.f784ebd4.svg",
+    "static/media/Facebook.f4a70f12.svg": "/laundry2/static/media/Facebook.f4a70f12.svg",
+    "static/media/folded-clothes.b55c5e4f.svg": "/laundry2/static/media/folded-clothes.b55c5e4f.svg",
+    "static/media/google.0959c122.svg": "/laundry2/static/media/google.0959c122.svg",
+    "static/media/logo-dark-bg.d65c87c9.svg": "/laundry2/static/media/logo-dark-bg.d65c87c9.svg",
+    "static/media/logo-light-bg.263c4e25.svg": "/laundry2/static/media/logo-light-bg.263c4e25.svg",
+    "static/media/low-price.894172de.svg": "/laundry2/static/media/low-price.894172de.svg",
+    "static/media/ontime.c554a9ba.svg": "/laundry2/static/media/ontime.c554a9ba.svg",
+    "static/media/plant2.afb034ea.svg": "/laundry2/static/media/plant2.afb034ea.svg",
+    "static/media/reliable.f9971c3d.svg": "/laundry2/static/media/reliable.f9971c3d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2758c0dc.js",
+    "static/css/2.b3e935b7.chunk.css",
+    "static/js/2.e5ca7312.chunk.js",
+    "static/css/main.b5945213.chunk.css",
+    "static/js/main.1805cff0.chunk.js"
+  ]
+}
